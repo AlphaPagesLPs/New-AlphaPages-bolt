@@ -5,7 +5,10 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   base: '/New-AlphaPages-bolt/',
-  optimizeDeps: {
-    exclude: ['lucide-react'],
+  build: {
+  outDir: 'docs',
   },
-});
+  optimizeDeps: {
+      exclude: ['lucide-react'],
+    },
+  });

@@ -15,7 +15,7 @@ export default function FAQ() {
     },
     {
       question: 'Qual o prazo de entrega?',
-      answer: 'Trabalhamos com foco em agilidade, geralmente entregamos a primeira versão em até 7 dias úteis.'
+      answer: 'Trabalhamos com foco em agilidade, geralmente entregamos em até 5 dias úteis.'
     }
   ];
 

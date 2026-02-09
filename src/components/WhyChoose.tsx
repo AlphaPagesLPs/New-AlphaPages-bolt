@@ -19,7 +19,7 @@ export default function WhyChoose() {
     },
     {
       icon: TrendingUp,
-      title: 'BÔNUS: Rastreamento Inteligente',
+      title: 'Rastreamento Inteligente',
       description: 'Configuramos todo o tracking (Pixel, API) e a criação de UTMs para que você saiba exatamente de onde vem cada centavo de lucro do seu tráfego pago.'
     }
   ];

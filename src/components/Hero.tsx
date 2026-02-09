@@ -25,11 +25,11 @@ export default function Hero() {
             <div className="text-sm text-gray-400">Responsivo</div>
           </div>
           <div>
-            <div className="text-4xl font-bold text-yellow-400 mb-2">&lt;1s</div>
+            <div className="text-4xl font-bold text-yellow-400 mb-2">1s</div>
             <div className="text-sm text-gray-400">Tempo de Carga</div>
           </div>
           <div>
-            <div className="text-4xl font-bold text-yellow-400 mb-2">0€</div>
+            <div className="text-4xl font-bold text-yellow-400 mb-2">0$</div>
             <div className="text-sm text-gray-400">Antes da Aprovação</div>
           </div>
         </div>
