@@ -49,12 +49,12 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold text-white mb-4">Redes Sociais</h3>
             <div className="flex gap-4 mb-6">
-              <a href="https://www.instagram.com/alphapages_01/" className="p-3 bg-zinc-900 rounded-lg hover:bg-yellow-400 hover:text-black transition-all group" target='_blank' aria-label="Instagram da AlphaPages">
+              <a href="https://www.instagram.com/alphapages_01/" className="p-3 bg-zinc-900 rounded-lg hover:bg-yellow-400 hover:text-black transition-all group" target='_blank' aria-label="Instagram da AlphaPages"  rel="noopener noreferrer">
                 <Instagram size={24} />
               </a>
               
               <a href="mailto:alphapages01@outlook.com" target='_blank' className="p-3 bg-zinc-900 rounded-lg hover:bg-yellow-400 hover:text-black transition-all group" aria-label="Enviar e-mail para AlphaPages">
-                <Mail size={24} />
+                <Mail size={24} aria-hidden="true" focusable="false" />
               </a>
             </div>
 
