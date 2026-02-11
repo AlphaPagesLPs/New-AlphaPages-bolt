@@ -9,7 +9,7 @@ export const projects: Project[] = [
         imageUrl: 'https://i.imgur.com/3ID3Xze.png',
         tags: ['Infoprodutos'],
         category: 'Infoprodutos',
-        siteUrl:'https://learning-applp.vercel.app/'
+        siteUrl: 'https://learning-applp.vercel.app/'
     },
 
     {
@@ -20,7 +20,7 @@ export const projects: Project[] = [
         imageUrl: 'https://i.imgur.com/ZRo9aaS.png',
         tags: ['Dashboard'],
         category: 'Dashboard',
-        siteUrl:'https://sales-dashboard-frontend-six.vercel.app/'
+        siteUrl: 'https://sales-dashboard-frontend-six.vercel.app/'
     },
     {
         id: '3',
@@ -30,7 +30,7 @@ export const projects: Project[] = [
         imageUrl: 'https://i.imgur.com/YvG166g.png',
         tags: ['Infoproducts'],
         category: 'Infoproducts',
-        siteUrl:'https://desafio-tecnico-lacrei-saude.vercel.app/'
+        siteUrl: 'https://lacrei-saudelts.vercel.app/'
     },
 
     {
@@ -41,7 +41,7 @@ export const projects: Project[] = [
         imageUrl: 'https://i.imgur.com/ZbS7MxZ.png',
         tags: ['Landing Page'],
         category: 'Landing Page',
-        siteUrl:'https://institutodentalsante.com.br/invisalign-piedade/'
+        siteUrl: 'https://institutodentalsante.com.br/invisalign-piedade/'
     },
 
     {
@@ -52,7 +52,7 @@ export const projects: Project[] = [
         imageUrl: 'https://i.imgur.com/YANHptu.png',
         tags: ['Landing Page'],
         category: 'Landing Page',
-        siteUrl:'https://institutodentalsante.com.br/implante-piedade/'
+        siteUrl: 'https://institutodentalsante.com.br/implante-piedade/'
     },
 
     {
@@ -63,14 +63,14 @@ export const projects: Project[] = [
         imageUrl: 'https://i.imgur.com/AFpaloL.png',
         tags: ['Landing Page'],
         category: 'Landing Page',
-        siteUrl:'https://institutodentalsante.com.br/cp-hof/'
+        siteUrl: 'https://institutodentalsante.com.br/cp-hof/'
     },
 ];
 
 export const features = [
-  {
-    id: '1',
-    icon: '🚀', 
-    title: 'Alta Performance',
-    description: 'Páginas otimizadas para carregar rapidamente.'
-  }];
+    {
+        id: '1',
+        icon: '🚀',
+        title: 'Alta Performance',
+        description: 'Páginas otimizadas para carregar rapidamente.'
+    }];
